@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+background-color: aquamarine !important;
+}
+.text_1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+margin-top: 25px;
+width: 450px;
+border-radius: 20px;
+border: 2px solid black;
+height: 120px;
+
+}
+span{
+    font-size: 30px;
+    
+}
+#text_2{
+    font-size: 20px;
+    font-family: serif;
+    color: rgb(223, 148, 37);
+}
+#text_3{
+   
+        font-size: 20px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(241, 109, 21);
+    
+}
+.line{
+    width:5px;
+    height:30px;
+    background-color: white !important;
+display: inline-block;
+}
+#camera ,#results{
+    width: 350px;
+    height: 250px;
+    border: 2px dotted black;
+   
+}
+#text_5{
+    color: green;
+background-color: whitesmoke;
+width: 35%;
+border-radius: 10px;
+
+}
+#text_6{
+    color: green;
+    background-color: whitesmoke;
+    width: 50%;
+    border-radius: 10px;
+}
+#predection{
+ text-align: center;
+width: 120p;
+}
+#first ,#third ,#second{
+
+color: black
+}
+
+#first{
+    color: rgb(218, 12, 149);
+    font-weight: bold;
+
+}
+#emoji{
+color: rgb(228, 70, 22);
+}
